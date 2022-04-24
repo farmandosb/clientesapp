@@ -5,6 +5,7 @@
 
 # dependencies
 /fe/clientes-app/node_modules
+/fe/clientes-app/.angular
 
 # IDEs and editors
 /be/clientesapp/.idea
