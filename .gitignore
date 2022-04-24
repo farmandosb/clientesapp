@@ -1,0 +1,16 @@
+# compiled output
+/fe/clientes-app/dist
+/fe/clientes-app/tmp
+/fe/clientes-app/out-tsc
+
+# dependencies
+/fe/clientes-app/node_modules
+
+# IDEs and editors
+/be/clientesapp/.idea
+/be/clientesapp.project
+/be/clientesapp.classpath
+
+
+# IDE - VSCode
+/fe/clientes-app.vscode/*
